@@ -1,8 +1,8 @@
 ---
 title: "PS0"
-subtitle: "CEVE 543 Fall 2025"
-author: James Doss-Gollin
-due_date: false
+subtitle: "Preparation Self-Assessment"
+author: CEVE 543 Fall 2025
+due_date: 2025-09-03
 
 engine: julia
 
