@@ -15,11 +15,18 @@ format:
     code-block-border-left: "#e1e4e5"
     theme: default
     number-sections: true
-  pdf:
+    fig-format: svg
+  typst:
     fontsize: 11pt
-    geometry: margin=1in
-    code-block-bg: "#f8f8f8"
+    margin: 
+      x: 1in
+      y: 1in
     number-sections: true
+    fig-format: svg
+
+execute: 
+  cache: true
+  freeze: auto
 
 # Code formatting options
 code-overflow: wrap
