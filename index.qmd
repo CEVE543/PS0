@@ -2,6 +2,7 @@
 title: "PS0"
 subtitle: "CEVE 543 Fall 2025"
 author: James Doss-Gollin
+due_date: false
 
 engine: julia
 
