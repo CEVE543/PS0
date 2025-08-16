@@ -2,7 +2,8 @@
 title: "PS0"
 subtitle: "Preparation Self-Assessment"
 author: CEVE 543 Fall 2025
-due_date: 2025-09-03
+due_date: "2025-09-03"
+assigned_date: "2025-08-16"
 
 engine: julia
 
