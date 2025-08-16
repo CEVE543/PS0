@@ -72,6 +72,10 @@ $$
 \text{Demand} = 120 + 10 \cdot \text{AvgTemp} - 8 \cdot \text{Rainfall}
 $$
 
+1. Interpret the meaning of the coefficient for `AvgTemp` (10) in the context of this model.
+1. Interpret the meaning of the coefficient for `Rainfall` (-8). Explain why the negative sign makes physical sense.
+1. Planners in New Orleans want to fit a similar model. They have collected data on demand, average temperature, and rainfall. Explain how you would estimate the coefficients.
+
 ## Sea-Level Rise
 
 :::{.callout-tip}
