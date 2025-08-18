@@ -1,9 +1,12 @@
 ---
-title: "PS0"
-subtitle: "Preparation Self-Assessment"
+title: "PS0: Preparation Self-Assessment (Due Sep 3)"
+subtitle: "Course Setup and Background Assessment"
 author: CEVE 543 Fall 2025
 due_date: "2025-09-03"
-assigned_date: "2025-08-16"
+date: "2025-08-25"
+type: "assignment"
+points: "Completion"
+description: "Self-assessment of mathematical and programming background; course setup verification"
 
 engine: julia
 
@@ -13,7 +16,7 @@ format:
     toc-depth: 2
     code-block-bg: "#f8f8f8"
     code-block-border-left: "#e1e4e5"
-    theme: default
+    theme: cosmo
     number-sections: true
     fig-format: svg
   typst:
